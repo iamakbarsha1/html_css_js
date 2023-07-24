@@ -1,0 +1,11 @@
+/* * {
+  padding: 0;
+  margin: 0;
+} */
+
+.ques{
+    padding: 10px 30px;
+    margin: 10px 30px;
+    background-color: bisque;
+    border-radius: 20px;
+}
